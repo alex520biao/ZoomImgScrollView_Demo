@@ -17,12 +17,16 @@
 		E19F43CF17408C6C00C2453A /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E19F43CE17408C6C00C2453A /* Default@2x.png */; };
 		E19F43D117408C6C00C2453A /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E19F43D017408C6C00C2453A /* Default-568h@2x.png */; };
 		E19F43D417408C6C00C2453A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E19F43D317408C6C00C2453A /* ViewController.m */; };
-		E19F43D717408C6C00C2453A /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E19F43D517408C6C00C2453A /* ViewController.xib */; };
 		E19F43DF17408C6C00C2453A /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E19F43DE17408C6C00C2453A /* SenTestingKit.framework */; };
 		E19F43E017408C6C00C2453A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E19F43BA17408C6C00C2453A /* UIKit.framework */; };
 		E19F43E117408C6C00C2453A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E19F43BC17408C6C00C2453A /* Foundation.framework */; };
 		E19F43E917408C6D00C2453A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E19F43E717408C6D00C2453A /* InfoPlist.strings */; };
 		E19F43EC17408C6D00C2453A /* ZoomImgScrollView_DemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E19F43EB17408C6D00C2453A /* ZoomImgScrollView_DemoTests.m */; };
+		E19F43F817408C8400C2453A /* ZoomImgScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = E19F43F717408C8400C2453A /* ZoomImgScrollView.m */; };
+		E19F44001740953800C2453A /* fc1f4134970a304e89259cd5d0c8a786c9175c9d.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E19F43FE1740953700C2453A /* fc1f4134970a304e89259cd5d0c8a786c9175c9d.jpg */; };
+		E19F44011740953800C2453A /* fc1f4134970a304e89259cd5d0c8a786c9175c9d.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E19F43FE1740953700C2453A /* fc1f4134970a304e89259cd5d0c8a786c9175c9d.jpg */; };
+		E19F44021740953800C2453A /* f59a1d7b0b2f388854f15353b51b849b.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E19F43FF1740953700C2453A /* f59a1d7b0b2f388854f15353b51b849b.jpg */; };
+		E19F44031740953800C2453A /* f59a1d7b0b2f388854f15353b51b849b.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E19F43FF1740953700C2453A /* f59a1d7b0b2f388854f15353b51b849b.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,13 +55,17 @@
 		E19F43D017408C6C00C2453A /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		E19F43D217408C6C00C2453A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		E19F43D317408C6C00C2453A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		E19F43D617408C6C00C2453A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
 		E19F43DD17408C6C00C2453A /* ZoomImgScrollView_DemoTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZoomImgScrollView_DemoTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E19F43DE17408C6C00C2453A /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
 		E19F43E617408C6D00C2453A /* ZoomImgScrollView_DemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ZoomImgScrollView_DemoTests-Info.plist"; sourceTree = "<group>"; };
 		E19F43E817408C6D00C2453A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E19F43EA17408C6D00C2453A /* ZoomImgScrollView_DemoTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZoomImgScrollView_DemoTests.h; sourceTree = "<group>"; };
 		E19F43EB17408C6D00C2453A /* ZoomImgScrollView_DemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZoomImgScrollView_DemoTests.m; sourceTree = "<group>"; };
+		E19F43F617408C8400C2453A /* ZoomImgScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZoomImgScrollView.h; sourceTree = "<group>"; };
+		E19F43F717408C8400C2453A /* ZoomImgScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZoomImgScrollView.m; sourceTree = "<group>"; };
+		E19F43FD1740935C00C2453A /* ReadMe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReadMe.h; sourceTree = "<group>"; };
+		E19F43FE1740953700C2453A /* fc1f4134970a304e89259cd5d0c8a786c9175c9d.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fc1f4134970a304e89259cd5d0c8a786c9175c9d.jpg; sourceTree = "<group>"; };
+		E19F43FF1740953700C2453A /* f59a1d7b0b2f388854f15353b51b849b.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = f59a1d7b0b2f388854f15353b51b849b.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +95,7 @@
 		E19F43AE17408C6C00C2453A = {
 			isa = PBXGroup;
 			children = (
+				E19F43F517408C8400C2453A /* ZoomImgScrollView */,
 				E19F43C017408C6C00C2453A /* ZoomImgScrollView_Demo */,
 				E19F43E417408C6C00C2453A /* ZoomImgScrollView_DemoTests */,
 				E19F43B917408C6C00C2453A /* Frameworks */,
@@ -117,11 +126,12 @@
 		E19F43C017408C6C00C2453A /* ZoomImgScrollView_Demo */ = {
 			isa = PBXGroup;
 			children = (
+				E19F43FE1740953700C2453A /* fc1f4134970a304e89259cd5d0c8a786c9175c9d.jpg */,
+				E19F43FF1740953700C2453A /* f59a1d7b0b2f388854f15353b51b849b.jpg */,
 				E19F43C917408C6C00C2453A /* AppDelegate.h */,
 				E19F43CA17408C6C00C2453A /* AppDelegate.m */,
 				E19F43D217408C6C00C2453A /* ViewController.h */,
 				E19F43D317408C6C00C2453A /* ViewController.m */,
-				E19F43D517408C6C00C2453A /* ViewController.xib */,
 				E19F43C117408C6C00C2453A /* Supporting Files */,
 			);
 			path = ZoomImgScrollView_Demo;
@@ -158,6 +168,16 @@
 				E19F43E717408C6D00C2453A /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		E19F43F517408C8400C2453A /* ZoomImgScrollView */ = {
+			isa = PBXGroup;
+			children = (
+				E19F43FD1740935C00C2453A /* ReadMe.h */,
+				E19F43F617408C8400C2453A /* ZoomImgScrollView.h */,
+				E19F43F717408C8400C2453A /* ZoomImgScrollView.m */,
+			);
+			path = ZoomImgScrollView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,7 +255,8 @@
 				E19F43CD17408C6C00C2453A /* Default.png in Resources */,
 				E19F43CF17408C6C00C2453A /* Default@2x.png in Resources */,
 				E19F43D117408C6C00C2453A /* Default-568h@2x.png in Resources */,
-				E19F43D717408C6C00C2453A /* ViewController.xib in Resources */,
+				E19F44001740953800C2453A /* fc1f4134970a304e89259cd5d0c8a786c9175c9d.jpg in Resources */,
+				E19F44021740953800C2453A /* f59a1d7b0b2f388854f15353b51b849b.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -244,6 +265,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				E19F43E917408C6D00C2453A /* InfoPlist.strings in Resources */,
+				E19F44011740953800C2453A /* fc1f4134970a304e89259cd5d0c8a786c9175c9d.jpg in Resources */,
+				E19F44031740953800C2453A /* f59a1d7b0b2f388854f15353b51b849b.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,6 +296,7 @@
 				E19F43C717408C6C00C2453A /* main.m in Sources */,
 				E19F43CB17408C6C00C2453A /* AppDelegate.m in Sources */,
 				E19F43D417408C6C00C2453A /* ViewController.m in Sources */,
+				E19F43F817408C8400C2453A /* ZoomImgScrollView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,14 +325,6 @@
 				E19F43C417408C6C00C2453A /* en */,
 			);
 			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		E19F43D517408C6C00C2453A /* ViewController.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				E19F43D617408C6C00C2453A /* en */,
-			);
-			name = ViewController.xib;
 			sourceTree = "<group>";
 		};
 		E19F43E717408C6D00C2453A /* InfoPlist.strings */ = {
@@ -347,7 +363,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 			};
@@ -371,7 +387,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -384,6 +400,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ZoomImgScrollView_Demo/ZoomImgScrollView_Demo-Prefix.pch";
 				INFOPLIST_FILE = "ZoomImgScrollView_Demo/ZoomImgScrollView_Demo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -395,6 +412,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ZoomImgScrollView_Demo/ZoomImgScrollView_Demo-Prefix.pch";
 				INFOPLIST_FILE = "ZoomImgScrollView_Demo/ZoomImgScrollView_Demo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
