@@ -7,7 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "ZoomImgScrollView.h"
 @interface ViewController : UIViewController
+@property (nonatomic, strong) ZoomImgScrollView *zoomView;
+-(IBAction)changeContentMode:(id)sender;
+-(IBAction)changeContentImg:(id)sender;
+
 
 @end
