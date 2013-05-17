@@ -471,6 +471,7 @@
 				E19F43F117408C6D00C2453A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E19F43F217408C6D00C2453A /* Build configuration list for PBXNativeTarget "ZoomImgScrollView_DemoTests" */ = {
 			isa = XCConfigurationList;
@@ -479,6 +480,7 @@
 				E19F43F417408C6D00C2453A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
